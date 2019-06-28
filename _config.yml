@@ -1,11 +1,11 @@
 # Site settings
 author: Chris Kay
-title: 
+title: Chris Kay's Flatiron Experience
 header-img: img/home-bg.png
 email: chriskay25@gmail.com
 copyright_name: Chris Kay
 description: > # this means to ignore newlines until "baseurl:"
-  
+  I'll fill in a little later...
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  chriskay25
