@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "First Post"
-date:       2019-06-28 19:12:58 +0000
+date:       2019-06-28 15:12:59 -0400
 permalink:  first_post
 ---
 
@@ -10,5 +10,5 @@ For as long as I can remember, the question “what do you want to do for a livi
 
 I’m the kind of person who can find nearly anything interesting...at least for a while, but I’m also the kind of person who sees shades of grey instead of black and white. Every option I ever considered for a career had enough negatives that I would find reasons not to pursue it. I went through more than a decade of doing that, and despite all the talk about how great the economy is, I could see the writing on the wall. Technology is constantly improving efficiency in business, and as it takes over tasks that used to be done by people, those people are devalued. The outlook for me was getting bleaker by the day. 
 
-Then, in January of this year someone sent me a news article about a coding bootcamp, something I’d never even heard of. It sounded too good to be true, and that got me started down the rabbit hole and I began researching different options. 
+Then, in January of this year someone sent me a news article about a coding bootcamp, something I’d never even heard of. It sounded too good to be true, and that got me started down the rabbit hole and I began researching different options. It was surprising to learn that there are so many of these programs, but after reading about them they seem like such a necessary and obvious alternative to other educational opportunities (like 4 year programs) that I'm surprised I wasn't aware of them before. With the economy trending more and more toward tech, I'm convinced that bootcamps will help a lot of people like me find their footing in an industry with a lot of upside. I'm looking forward to developing a skillset that's both needed and something that I enjoy.
 
