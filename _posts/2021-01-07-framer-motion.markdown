@@ -38,9 +38,8 @@ We can then use the **animate** prop and Motion will generate the animation for 
 
 The **transition** prop can be used to override and control animations. The following could be included just after **animate** make the transition take two seconds, and to delay the animation start by two seconds.
 
-```js
-transition={{ delay: 2, duration: 2 }}
-```
+
+`transition={{ delay: 2, duration: 2 }}`
 
 ### *GESTURES*
 Props relating to hovering, tapping, panning, and dragging of components are also a part of the Motion API. Adding some gesture control to the previous example, the code below would render the button after a delay of two seconds, then take two seconds for the scale animation. 
